@@ -2,4 +2,4 @@ Welcome to the Grade Calculator! It is an application used to determine grades f
 algorithm. This program also stores, edits, and deletes class progress. This program was built with Java, using the
 Swing GUI widget toolkit. The src folder contains all the code used for the program.
 
-Made in July 2022
+Made in July 2022.
